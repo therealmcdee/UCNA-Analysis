@@ -1,0 +1,176 @@
+:rotm r0  90 11.2500000 0 
+:place SiPM(S) 100 hall r0 8.7834957*cm 0.3040434*cm 0*mm 
+:place SiPM(S) 101 hall r0 8.7015578*cm 0.7159733*cm 0*mm 
+:place SiPM(S) 102 hall r0 8.6196199*cm 1.1279031*cm 0*mm 
+:place SiPM(S) 103 hall r0 8.5376819*cm 1.5398329*cm 0*mm 
+:place SiPM(S) 104 hall r0 8.4557440*cm 1.9517627*cm 0*mm 
+:place SiPM(S) 105 hall r0 8.3738061*cm 2.3636925*cm 0*mm 
+:place SiPM(S) 106 hall r0 8.2918681*cm 2.7756223*cm 0*mm 
+:place SiPM(S) 107 hall r0 8.2099302*cm 3.1875522*cm 0*mm 
+:rotm r1  90 33.7500000 0 
+:place SiPM(S) 108 hall r1 7.9985396*cm 3.6421978*cm 0*mm 
+:place SiPM(S) 109 hall r1 7.7652001*cm 3.9914150*cm 0*mm 
+:place SiPM(S) 110 hall r1 7.5318606*cm 4.3406323*cm 0*mm 
+:place SiPM(S) 111 hall r1 7.2985211*cm 4.6898495*cm 0*mm 
+:place SiPM(S) 112 hall r1 7.0651816*cm 5.0390668*cm 0*mm 
+:place SiPM(S) 113 hall r1 6.8318421*cm 5.3882840*cm 0*mm 
+:place SiPM(S) 114 hall r1 6.5985026*cm 5.7375012*cm 0*mm 
+:place SiPM(S) 115 hall r1 6.3651631*cm 6.0867185*cm 0*mm 
+:rotm r2  90 56.2500000 0 
+:place SiPM(S) 116 hall r2 5.9958782*cm 6.4258606*cm 0*mm 
+:place SiPM(S) 117 hall r2 5.6466610*cm 6.6592001*cm 0*mm 
+:place SiPM(S) 118 hall r2 5.2974437*cm 6.8925396*cm 0*mm 
+:place SiPM(S) 119 hall r2 4.9482265*cm 7.1258791*cm 0*mm 
+:place SiPM(S) 120 hall r2 4.5990093*cm 7.3592186*cm 0*mm 
+:place SiPM(S) 121 hall r2 4.2497920*cm 7.5925581*cm 0*mm 
+:place SiPM(S) 122 hall r2 3.9005748*cm 7.8258976*cm 0*mm 
+:place SiPM(S) 123 hall r2 3.5513576*cm 8.0592371*cm 0*mm 
+:rotm r3  90 78.7500000 0 
+:place SiPM(S) 124 hall r3 3.0803988*cm 8.2312443*cm 0*mm 
+:place SiPM(S) 125 hall r3 2.6684690*cm 8.3131823*cm 0*mm 
+:place SiPM(S) 126 hall r3 2.2565392*cm 8.3951202*cm 0*mm 
+:place SiPM(S) 127 hall r3 1.8446093*cm 8.4770581*cm 0*mm 
+:place SiPM(S) 128 hall r3 1.4326795*cm 8.5589961*cm 0*mm 
+:place SiPM(S) 129 hall r3 1.0207497*cm 8.6409340*cm 0*mm 
+:place SiPM(S) 130 hall r3 0.6088199*cm 8.7228719*cm 0*mm 
+:place SiPM(S) 131 hall r3 0.1968901*cm 8.8048099*cm 0*mm 
+:rotm r4  90 101.2500000 0 
+:place SiPM(S) 132 hall r4 -0.3040434*cm 8.7834957*cm 0*mm 
+:place SiPM(S) 133 hall r4 -0.7159733*cm 8.7015578*cm 0*mm 
+:place SiPM(S) 134 hall r4 -1.1279031*cm 8.6196199*cm 0*mm 
+:place SiPM(S) 135 hall r4 -1.5398329*cm 8.5376819*cm 0*mm 
+:place SiPM(S) 136 hall r4 -1.9517627*cm 8.4557440*cm 0*mm 
+:place SiPM(S) 137 hall r4 -2.3636925*cm 8.3738061*cm 0*mm 
+:place SiPM(S) 138 hall r4 -2.7756223*cm 8.2918681*cm 0*mm 
+:place SiPM(S) 139 hall r4 -3.1875522*cm 8.2099302*cm 0*mm 
+:rotm r5  90 123.7500000 0 
+:place SiPM(S) 140 hall r5 -3.6421978*cm 7.9985396*cm 0*mm 
+:place SiPM(S) 141 hall r5 -3.9914150*cm 7.7652001*cm 0*mm 
+:place SiPM(S) 142 hall r5 -4.3406323*cm 7.5318606*cm 0*mm 
+:place SiPM(S) 143 hall r5 -4.6898495*cm 7.2985211*cm 0*mm 
+:place SiPM(S) 144 hall r5 -5.0390668*cm 7.0651816*cm 0*mm 
+:place SiPM(S) 145 hall r5 -5.3882840*cm 6.8318421*cm 0*mm 
+:place SiPM(S) 146 hall r5 -5.7375012*cm 6.5985026*cm 0*mm 
+:place SiPM(S) 147 hall r5 -6.0867185*cm 6.3651631*cm 0*mm 
+:rotm r6  90 146.2500000 0 
+:place SiPM(S) 148 hall r6 -6.4258606*cm 5.9958782*cm 0*mm 
+:place SiPM(S) 149 hall r6 -6.6592001*cm 5.6466610*cm 0*mm 
+:place SiPM(S) 150 hall r6 -6.8925396*cm 5.2974437*cm 0*mm 
+:place SiPM(S) 151 hall r6 -7.1258791*cm 4.9482265*cm 0*mm 
+:place SiPM(S) 152 hall r6 -7.3592186*cm 4.5990093*cm 0*mm 
+:place SiPM(S) 153 hall r6 -7.5925581*cm 4.2497920*cm 0*mm 
+:place SiPM(S) 154 hall r6 -7.8258976*cm 3.9005748*cm 0*mm 
+:place SiPM(S) 155 hall r6 -8.0592371*cm 3.5513576*cm 0*mm 
+:rotm r7  90 168.7500000 0 
+:place SiPM(S) 156 hall r7 -8.2312443*cm 3.0803988*cm 0*mm 
+:place SiPM(S) 157 hall r7 -8.3131823*cm 2.6684690*cm 0*mm 
+:place SiPM(S) 158 hall r7 -8.3951202*cm 2.2565392*cm 0*mm 
+:place SiPM(S) 159 hall r7 -8.4770581*cm 1.8446093*cm 0*mm 
+:place SiPM(S) 160 hall r7 -8.5589961*cm 1.4326795*cm 0*mm 
+:place SiPM(S) 161 hall r7 -8.6409340*cm 1.0207497*cm 0*mm 
+:place SiPM(S) 162 hall r7 -8.7228719*cm 0.6088199*cm 0*mm 
+:place SiPM(S) 163 hall r7 -8.8048099*cm 0.1968901*cm 0*mm 
+:rotm r8  90 191.2500000 0 
+:place SiPM(S) 164 hall r8 -8.7834957*cm -0.3040434*cm 0*mm 
+:place SiPM(S) 165 hall r8 -8.7015578*cm -0.7159733*cm 0*mm 
+:place SiPM(S) 166 hall r8 -8.6196199*cm -1.1279031*cm 0*mm 
+:place SiPM(S) 167 hall r8 -8.5376819*cm -1.5398329*cm 0*mm 
+:place SiPM(S) 168 hall r8 -8.4557440*cm -1.9517627*cm 0*mm 
+:place SiPM(S) 169 hall r8 -8.3738061*cm -2.3636925*cm 0*mm 
+:place SiPM(S) 170 hall r8 -8.2918681*cm -2.7756223*cm 0*mm 
+:place SiPM(S) 171 hall r8 -8.2099302*cm -3.1875522*cm 0*mm 
+:rotm r9  90 213.7500000 0 
+:place SiPM(S) 172 hall r9 -7.9985396*cm -3.6421978*cm 0*mm 
+:place SiPM(S) 173 hall r9 -7.7652001*cm -3.9914150*cm 0*mm 
+:place SiPM(S) 174 hall r9 -7.5318606*cm -4.3406323*cm 0*mm 
+:place SiPM(S) 175 hall r9 -7.2985211*cm -4.6898495*cm 0*mm 
+:place SiPM(S) 176 hall r9 -7.0651816*cm -5.0390668*cm 0*mm 
+:place SiPM(S) 177 hall r9 -6.8318421*cm -5.3882840*cm 0*mm 
+:place SiPM(S) 178 hall r9 -6.5985026*cm -5.7375012*cm 0*mm 
+:place SiPM(S) 179 hall r9 -6.3651631*cm -6.0867185*cm 0*mm 
+:rotm r10  90 236.2500000 0 
+:place SiPM(S) 180 hall r10 -5.9958782*cm -6.4258606*cm 0*mm 
+:place SiPM(S) 181 hall r10 -5.6466610*cm -6.6592001*cm 0*mm 
+:place SiPM(S) 182 hall r10 -5.2974437*cm -6.8925396*cm 0*mm 
+:place SiPM(S) 183 hall r10 -4.9482265*cm -7.1258791*cm 0*mm 
+:place SiPM(S) 184 hall r10 -4.5990093*cm -7.3592186*cm 0*mm 
+:place SiPM(S) 185 hall r10 -4.2497920*cm -7.5925581*cm 0*mm 
+:place SiPM(S) 186 hall r10 -3.9005748*cm -7.8258976*cm 0*mm 
+:place SiPM(S) 187 hall r10 -3.5513576*cm -8.0592371*cm 0*mm 
+:rotm r11  90 258.7500000 0 
+:place SiPM(S) 188 hall r11 -3.0803988*cm -8.2312443*cm 0*mm 
+:place SiPM(S) 189 hall r11 -2.6684690*cm -8.3131823*cm 0*mm 
+:place SiPM(S) 190 hall r11 -2.2565392*cm -8.3951202*cm 0*mm 
+:place SiPM(S) 191 hall r11 -1.8446093*cm -8.4770581*cm 0*mm 
+:place SiPM(S) 192 hall r11 -1.4326795*cm -8.5589961*cm 0*mm 
+:place SiPM(S) 193 hall r11 -1.0207497*cm -8.6409340*cm 0*mm 
+:place SiPM(S) 194 hall r11 -0.6088199*cm -8.7228719*cm 0*mm 
+:place SiPM(S) 195 hall r11 -0.1968901*cm -8.8048099*cm 0*mm 
+:rotm r12  90 281.2500000 0 
+:place SiPM(S) 196 hall r12 0.3040434*cm -8.7834957*cm 0*mm 
+:place SiPM(S) 197 hall r12 0.7159733*cm -8.7015578*cm 0*mm 
+:place SiPM(S) 198 hall r12 1.1279031*cm -8.6196199*cm 0*mm 
+:place SiPM(S) 199 hall r12 1.5398329*cm -8.5376819*cm 0*mm 
+:place SiPM(S) 200 hall r12 1.9517627*cm -8.4557440*cm 0*mm 
+:place SiPM(S) 201 hall r12 2.3636925*cm -8.3738061*cm 0*mm 
+:place SiPM(S) 202 hall r12 2.7756223*cm -8.2918681*cm 0*mm 
+:place SiPM(S) 203 hall r12 3.1875522*cm -8.2099302*cm 0*mm 
+:rotm r13  90 303.7500000 0 
+:place SiPM(S) 204 hall r13 3.6421978*cm -7.9985396*cm 0*mm 
+:place SiPM(S) 205 hall r13 3.9914150*cm -7.7652001*cm 0*mm 
+:place SiPM(S) 206 hall r13 4.3406323*cm -7.5318606*cm 0*mm 
+:place SiPM(S) 207 hall r13 4.6898495*cm -7.2985211*cm 0*mm 
+:place SiPM(S) 208 hall r13 5.0390668*cm -7.0651816*cm 0*mm 
+:place SiPM(S) 209 hall r13 5.3882840*cm -6.8318421*cm 0*mm 
+:place SiPM(S) 210 hall r13 5.7375012*cm -6.5985026*cm 0*mm 
+:place SiPM(S) 211 hall r13 6.0867185*cm -6.3651631*cm 0*mm 
+:rotm r14  90 326.2500000 0 
+:place SiPM(S) 212 hall r14 6.4258606*cm -5.9958782*cm 0*mm 
+:place SiPM(S) 213 hall r14 6.6592001*cm -5.6466610*cm 0*mm 
+:place SiPM(S) 214 hall r14 6.8925396*cm -5.2974437*cm 0*mm 
+:place SiPM(S) 215 hall r14 7.1258791*cm -4.9482265*cm 0*mm 
+:place SiPM(S) 216 hall r14 7.3592186*cm -4.5990093*cm 0*mm 
+:place SiPM(S) 217 hall r14 7.5925581*cm -4.2497920*cm 0*mm 
+:place SiPM(S) 218 hall r14 7.8258976*cm -3.9005748*cm 0*mm 
+:place SiPM(S) 219 hall r14 8.0592371*cm -3.5513576*cm 0*mm 
+:rotm r15  90 348.7500000 0 
+:place SiPM(S) 220 hall r15 8.2312443*cm -3.0803988*cm 0*mm 
+:place SiPM(S) 221 hall r15 8.3131823*cm -2.6684690*cm 0*mm 
+:place SiPM(S) 222 hall r15 8.3951202*cm -2.2565392*cm 0*mm 
+:place SiPM(S) 223 hall r15 8.4770581*cm -1.8446093*cm 0*mm 
+:place SiPM(S) 224 hall r15 8.5589961*cm -1.4326795*cm 0*mm 
+:place SiPM(S) 225 hall r15 8.6409340*cm -1.0207497*cm 0*mm 
+:place SiPM(S) 226 hall r15 8.7228719*cm -0.6088199*cm 0*mm 
+:place SiPM(S) 227 hall r15 8.8048099*cm -0.1968901*cm 0*mm 
+:rotm r32 90 78.7500000 0 
+:place scint(S) 1 hall r32 -4.2296365*cm 0.8413270*cm 0 
+:rotm r33 90 56.2500000 0 
+:place scint(S) 2 hall r33 -3.5857127*cm 2.3958966*cm 0 
+:rotm r34 90 33.7500000 0 
+:place scint(S) 3 hall r34 -2.3958966*cm 3.5857127*cm 0 
+:rotm r35 90 11.2500000 0 
+:place scint(S) 4 hall r35 -0.8413270*cm 4.2296365*cm 0 
+:rotm r36 90 -11.2500000 0 
+:place scint(S) 5 hall r36 0.8413270*cm 4.2296365*cm 0 
+:rotm r37 90 -33.7500000 0 
+:place scint(S) 6 hall r37 2.3958966*cm 3.5857127*cm 0 
+:rotm r38 90 -56.2500000 0 
+:place scint(S) 7 hall r38 3.5857127*cm 2.3958966*cm 0 
+:rotm r39 90 -78.7500000 0 
+:place scint(S) 8 hall r39 4.2296365*cm 0.8413270*cm 0 
+:rotm r40 90 -101.2500000 0 
+:place scint(S) 9 hall r40 4.2296365*cm -0.8413270*cm 0 
+:rotm r41 90 -123.7500000 0 
+:place scint(S) 10 hall r41 3.5857127*cm -2.3958966*cm 0 
+:rotm r42 90 -146.2500000 0 
+:place scint(S) 11 hall r42 2.3958966*cm -3.5857127*cm 0 
+:rotm r43 90 -168.7500000 0 
+:place scint(S) 12 hall r43 0.8413270*cm -4.2296365*cm 0 
+:rotm r44 90 -191.2500000 0 
+:place scint(S) 13 hall r44 -0.8413270*cm -4.2296365*cm 0 
+:rotm r45 90 -213.7500000 0 
+:place scint(S) 14 hall r45 -2.3958966*cm -3.5857127*cm 0 
+:rotm r46 90 -236.2500000 0 
+:place scint(S) 15 hall r46 -3.5857127*cm -2.3958966*cm 0 
+:rotm r47 90 -258.7500000 0 
+:place scint(S) 16 hall r47 -4.2296365*cm -0.8413270*cm 0 
