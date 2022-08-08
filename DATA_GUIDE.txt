@@ -1,0 +1,8 @@
+14: background
+15-19: 5 successive increasing distance from 3 working boards (1 faulty) with LED 
+63: middle LED 1/2 
+68/69: left/right LED 
+70: ASIC1 ONLY
+80: ASIC1 and ASIC2 LED in center position
+55: ASIC1 & ASIC2 LED in center position before gain matching
+57: ASIC1 & ASIC2 LED in center position after first gain match (before flipping quadrant PCB; so before it worked)
